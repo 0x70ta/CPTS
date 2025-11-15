@@ -1,4 +1,4 @@
-# CPTS-cheatsheet
+# CPTS 
 HackTheBox Certified Penetration Tester Specialist Cheatsheet
 
 ![Alt text](https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png)
